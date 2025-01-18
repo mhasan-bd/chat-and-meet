@@ -55,6 +55,7 @@ All users of **Chat & Meet** are encouraged to:
 
 ## Commitment to Child Safety
 
+
 At **Chat & Meet**, we prioritize the safety and well-being of our users. Our systems, policies, and dedicated team work tirelessly to ensure that the platform remains secure and free from abuse or exploitation.
 
 ---
